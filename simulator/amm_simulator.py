@@ -1,5 +1,6 @@
 import random
 import time
+import json
 from simulator.core.AMM import AMM
 from simulator.core.HookManager import HookManager
 from simulator.core.Hook import SwapContext
@@ -18,6 +19,8 @@ class AMMSimulator:
         self.num_blocks = config.get("num_blocks", 50)
         self.txs_per_block = config.get("txs_per_block", 5)
         self.update_frequency = config.get("update_frequency", 3)
+
+        self.trade_log = [] # used to store all trade data
 
     def update_external_price(self):
         self.external_price *= 1 + (random.random() - 0.5) * 0.02
@@ -38,6 +41,7 @@ class AMMSimulator:
                 amount_in, token_in = self.get_trade()
                 reserve0, reserve1 = self.amm.get_reserves()
                 amm_price = self.amm.get_price()
+                timestamp = int(time.time())
 
                 context = SwapContext(
                     amount_in=amount_in,
@@ -47,7 +51,7 @@ class AMMSimulator:
                     amm_price=amm_price,
                     external_price=self.external_price,
                     block_number=block_number,
-                    timestamp=int(time.time())
+                    timestamp=timestamp
                 )
 
                 self.hooks.run_before_swap(context)
@@ -64,3 +68,19 @@ class AMMSimulator:
                     f"  ▸ Tx {tx_index + 1} | {token_in} → {'token1' if token_in == 'token0' else 'token0'} | "
                     f"AMM Price: {self.amm.get_price():.4f} | Oracle: {self.external_price:.4f} | Fee: {self.amm.get_fee()}"
                 )
+
+                # add trade data to log
+                self.trade_log.append({
+                    "amount_in": amount_in,
+                    "token_in": token_in,
+                    "amm_price": amm_price,
+                    "external_price": self.external_price,
+                    "timestamp": timestamp,
+                    "block_number": block_number,
+                    "amount_out": result.amount_out,
+                    "fee": self.amm.get_fee()
+                })
+            
+            # write to output file
+            with open("data/trade_data.json", "w") as f:
+                json.dump(self.trade_log, f, indent=2)

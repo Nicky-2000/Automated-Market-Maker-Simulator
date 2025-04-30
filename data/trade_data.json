@@ -1,0 +1,2502 @@
+[
+  {
+    "amount_in": 920,
+    "token_in": "token0",
+    "amm_price": 1.0,
+    "external_price": 1.0,
+    "timestamp": 1746053538,
+    "block_number": 1,
+    "amount_out": 908.9031765038362,
+    "fee": 0.003
+  },
+  {
+    "amount_in": 432,
+    "token_in": "token1",
+    "amm_price": 0.9819045469683491,
+    "external_price": 1.0,
+    "timestamp": 1746053538,
+    "block_number": 1,
+    "amount_out": 436.74309123532475,
+    "fee": 0.003
+  },
+  {
+    "amount_in": 115,
+    "token_in": "token0",
+    "amm_price": 0.9904588839151641,
+    "external_price": 1.0,
+    "timestamp": 1746053538,
+    "block_number": 1,
+    "amount_out": 113.43163022177175,
+    "fee": 0.003
+  },
+  {
+    "amount_in": 148,
+    "token_in": "token0",
+    "amm_price": 0.9882023865666344,
+    "external_price": 1.0,
+    "timestamp": 1746053538,
+    "block_number": 1,
+    "amount_out": 145.60161851085846,
+    "fee": 0.003
+  },
+  {
+    "amount_in": 784,
+    "token_in": "token0",
+    "amm_price": 0.9853097026601526,
+    "external_price": 1.0,
+    "timestamp": 1746053538,
+    "block_number": 1,
+    "amount_out": 764.2357644603435,
+    "fee": 0.003
+  },
+  {
+    "amount_in": 947,
+    "token_in": "token0",
+    "amm_price": 0.9701960768785308,
+    "external_price": 1.0,
+    "timestamp": 1746053538,
+    "block_number": 2,
+    "amount_out": 901.2651651789892,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 436,
+    "token_in": "token0",
+    "amm_price": 0.9525226456599472,
+    "external_price": 1.0,
+    "timestamp": 1746053538,
+    "block_number": 2,
+    "amount_out": 409.422107004625,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 696,
+    "token_in": "token0",
+    "amm_price": 0.9445477125965699,
+    "external_price": 1.0,
+    "timestamp": 1746053538,
+    "block_number": 2,
+    "amount_out": 646.5017719249174,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 1023,
+    "token_in": "token0",
+    "amm_price": 0.9320230863099885,
+    "external_price": 1.0,
+    "timestamp": 1746053538,
+    "block_number": 2,
+    "amount_out": 934.7852355348273,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 696,
+    "token_in": "token0",
+    "amm_price": 0.9140613842863368,
+    "external_price": 1.0,
+    "timestamp": 1746053538,
+    "block_number": 2,
+    "amount_out": 625.7029291602778,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 482,
+    "token_in": "token1",
+    "amm_price": 0.9021362740831198,
+    "external_price": 1.0012112028841749,
+    "timestamp": 1746053538,
+    "block_number": 3,
+    "amount_out": 526.3003654524763,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 705,
+    "token_in": "token1",
+    "amm_price": 0.9112236369981085,
+    "external_price": 1.0012112028841749,
+    "timestamp": 1746053538,
+    "block_number": 3,
+    "amount_out": 760.3884368556975,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 958,
+    "token_in": "token1",
+    "amm_price": 0.9245973374683819,
+    "external_price": 1.0012112028841749,
+    "timestamp": 1746053538,
+    "block_number": 3,
+    "amount_out": 1015.7467811092712,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 206,
+    "token_in": "token1",
+    "amm_price": 0.9429265393011727,
+    "external_price": 1.0012112028841749,
+    "timestamp": 1746053538,
+    "block_number": 3,
+    "amount_out": 215.83079021598797,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 301,
+    "token_in": "token1",
+    "amm_price": 0.9468913929084186,
+    "external_price": 1.0012112028841749,
+    "timestamp": 1746053538,
+    "block_number": 3,
+    "amount_out": 313.7426797697133,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 523,
+    "token_in": "token1",
+    "amm_price": 0.9526996554339888,
+    "external_price": 1.0012112028841749,
+    "timestamp": 1746053538,
+    "block_number": 4,
+    "amount_out": 540.6088769128994,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 944,
+    "token_in": "token0",
+    "amm_price": 0.9628339903846026,
+    "external_price": 1.0012112028841749,
+    "timestamp": 1746053538,
+    "block_number": 4,
+    "amount_out": 891.6494532705942,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 884,
+    "token_in": "token1",
+    "amm_price": 0.9454150334152356,
+    "external_price": 1.0012112028841749,
+    "timestamp": 1746053538,
+    "block_number": 4,
+    "amount_out": 917.4311648084526,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 236,
+    "token_in": "token0",
+    "amm_price": 0.9625104150073005,
+    "external_price": 1.0012112028841749,
+    "timestamp": 1746053538,
+    "block_number": 4,
+    "amount_out": 224.36664321199828,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 492,
+    "token_in": "token1",
+    "amm_price": 0.9581130337894905,
+    "external_price": 1.0012112028841749,
+    "timestamp": 1746053538,
+    "block_number": 4,
+    "amount_out": 505.8570436496,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 425,
+    "token_in": "token1",
+    "amm_price": 0.9676721530184953,
+    "external_price": 1.0012112028841749,
+    "timestamp": 1746053538,
+    "block_number": 5,
+    "amount_out": 432.95451829237214,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 752,
+    "token_in": "token0",
+    "amm_price": 0.9759677192184425,
+    "external_price": 1.0012112028841749,
+    "timestamp": 1746053538,
+    "block_number": 5,
+    "amount_out": 721.2835526201995,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 997,
+    "token_in": "token1",
+    "amm_price": 0.9617684682005146,
+    "external_price": 1.0012112028841749,
+    "timestamp": 1746053538,
+    "block_number": 5,
+    "amount_out": 1016.0397106171175,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 800,
+    "token_in": "token1",
+    "amm_price": 0.9812254569649774,
+    "external_price": 1.0012112028841749,
+    "timestamp": 1746053538,
+    "block_number": 5,
+    "amount_out": 806.3682635792255,
+    "fee": 0.003
+  },
+  {
+    "amount_in": 643,
+    "token_in": "token0",
+    "amm_price": 0.9970906182573838,
+    "external_price": 1.0012112028841749,
+    "timestamp": 1746053538,
+    "block_number": 5,
+    "amount_out": 635.140108072477,
+    "fee": 0.003
+  },
+  {
+    "amount_in": 1075,
+    "token_in": "token0",
+    "amm_price": 0.984446648501916,
+    "external_price": 0.9982911015431282,
+    "timestamp": 1746053538,
+    "block_number": 6,
+    "amount_out": 1044.0032974358967,
+    "fee": 0.003
+  },
+  {
+    "amount_in": 870,
+    "token_in": "token1",
+    "amm_price": 0.9638385906810807,
+    "external_price": 0.9982911015431282,
+    "timestamp": 1746053538,
+    "block_number": 6,
+    "amount_out": 885.8427812391382,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 324,
+    "token_in": "token1",
+    "amm_price": 0.9808244484493476,
+    "external_price": 0.9982911015431282,
+    "timestamp": 1746053538,
+    "block_number": 6,
+    "amount_out": 328.2726121526733,
+    "fee": 0.003
+  },
+  {
+    "amount_in": 862,
+    "token_in": "token0",
+    "amm_price": 0.9872332009310117,
+    "external_price": 0.9982911015431282,
+    "timestamp": 1746053538,
+    "block_number": 6,
+    "amount_out": 841.2584408712656,
+    "fee": 0.003
+  },
+  {
+    "amount_in": 193,
+    "token_in": "token0",
+    "amm_price": 0.9705865504648468,
+    "external_price": 0.9982911015431282,
+    "timestamp": 1746053538,
+    "block_number": 6,
+    "amount_out": 185.101538886622,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 283,
+    "token_in": "token0",
+    "amm_price": 0.9669427970431572,
+    "external_price": 0.9982911015431282,
+    "timestamp": 1746053538,
+    "block_number": 7,
+    "amount_out": 270.16406074345485,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 993,
+    "token_in": "token1",
+    "amm_price": 0.9616368739032979,
+    "external_price": 0.9982911015431282,
+    "timestamp": 1746053538,
+    "block_number": 7,
+    "amount_out": 1012.1415789595936,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 475,
+    "token_in": "token1",
+    "amm_price": 0.9810140920595407,
+    "external_price": 0.9982911015431282,
+    "timestamp": 1746053538,
+    "block_number": 7,
+    "amount_out": 480.44309237446134,
+    "fee": 0.003
+  },
+  {
+    "amount_in": 260,
+    "token_in": "token0",
+    "amm_price": 0.9904176760063907,
+    "external_price": 0.9982911015431282,
+    "timestamp": 1746053538,
+    "block_number": 7,
+    "amount_out": 256.07545919221945,
+    "fee": 0.003
+  },
+  {
+    "amount_in": 1007,
+    "token_in": "token1",
+    "amm_price": 0.985327321332849,
+    "external_price": 0.9982911015431282,
+    "timestamp": 1746053538,
+    "block_number": 7,
+    "amount_out": 1008.7268920304723,
+    "fee": 0.003
+  },
+  {
+    "amount_in": 411,
+    "token_in": "token0",
+    "amm_price": 1.0053598437422187,
+    "external_price": 0.9982911015431282,
+    "timestamp": 1746053538,
+    "block_number": 8,
+    "amount_out": 410.27760543918026,
+    "fee": 0.003
+  },
+  {
+    "amount_in": 401,
+    "token_in": "token0",
+    "amm_price": 0.9971491635535841,
+    "external_price": 0.9982911015431282,
+    "timestamp": 1746053538,
+    "block_number": 8,
+    "amount_out": 397.0720265321998,
+    "fee": 0.003
+  },
+  {
+    "amount_in": 921,
+    "token_in": "token0",
+    "amm_price": 0.9892348175957142,
+    "external_price": 0.9982911015431282,
+    "timestamp": 1746053538,
+    "block_number": 8,
+    "amount_out": 900.1312820442439,
+    "fee": 0.003
+  },
+  {
+    "amount_in": 971,
+    "token_in": "token0",
+    "amm_price": 0.9714103785635737,
+    "external_price": 0.9982911015431282,
+    "timestamp": 1746053538,
+    "block_number": 8,
+    "amount_out": 925.0427752472709,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 407,
+    "token_in": "token0",
+    "amm_price": 0.953261477460555,
+    "external_price": 0.9982911015431282,
+    "timestamp": 1746053538,
+    "block_number": 8,
+    "amount_out": 382.5925237244036,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 515,
+    "token_in": "token1",
+    "amm_price": 0.9458052225092857,
+    "external_price": 1.00537671729264,
+    "timestamp": 1746053538,
+    "block_number": 9,
+    "amount_out": 536.2531521054075,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 947,
+    "token_in": "token0",
+    "amm_price": 0.9557480564550899,
+    "external_price": 1.00537671729264,
+    "timestamp": 1746053538,
+    "block_number": 9,
+    "amount_out": 887.9043742663171,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 1069,
+    "token_in": "token1",
+    "amm_price": 0.9384661670651488,
+    "external_price": 1.00537671729264,
+    "timestamp": 1746053538,
+    "block_number": 9,
+    "amount_out": 1115.5153113716285,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 488,
+    "token_in": "token1",
+    "amm_price": 0.9590828117556168,
+    "external_price": 1.00537671729264,
+    "timestamp": 1746053538,
+    "block_number": 9,
+    "amount_out": 501.25846882326323,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 996,
+    "token_in": "token1",
+    "amm_price": 0.9685688085518501,
+    "external_price": 1.00537671729264,
+    "timestamp": 1746053538,
+    "block_number": 9,
+    "amount_out": 1007.9394919572601,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 689,
+    "token_in": "token1",
+    "amm_price": 0.9880744375574582,
+    "external_price": 1.00537671729264,
+    "timestamp": 1746053538,
+    "block_number": 10,
+    "amount_out": 690.4524540698824,
+    "fee": 0.003
+  },
+  {
+    "amount_in": 1072,
+    "token_in": "token0",
+    "amm_price": 1.0017781189235946,
+    "external_price": 1.00537671729264,
+    "timestamp": 1746053538,
+    "block_number": 10,
+    "amount_out": 1059.3521768593187,
+    "fee": 0.003
+  },
+  {
+    "amount_in": 103,
+    "token_in": "token0",
+    "amm_price": 0.9806844699143122,
+    "external_price": 1.00537671729264,
+    "timestamp": 1746053538,
+    "block_number": 10,
+    "amount_out": 99.89951647011405,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 664,
+    "token_in": "token0",
+    "amm_price": 0.9787068677870212,
+    "external_price": 1.00537671729264,
+    "timestamp": 1746053538,
+    "block_number": 10,
+    "amount_out": 639.2058394428886,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 587,
+    "token_in": "token1",
+    "amm_price": 0.9661004487070083,
+    "external_price": 1.00537671729264,
+    "timestamp": 1746053538,
+    "block_number": 10,
+    "amount_out": 597.9857845545863,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 736,
+    "token_in": "token1",
+    "amm_price": 0.9775581209826675,
+    "external_price": 1.00537671729264,
+    "timestamp": 1746053538,
+    "block_number": 11,
+    "amount_out": 739.9145990574419,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 654,
+    "token_in": "token1",
+    "amm_price": 0.992019564232406,
+    "external_price": 1.00537671729264,
+    "timestamp": 1746053538,
+    "block_number": 11,
+    "amount_out": 653.0084525920369,
+    "fee": 0.003
+  },
+  {
+    "amount_in": 367,
+    "token_in": "token0",
+    "amm_price": 1.0050506998812132,
+    "external_price": 1.00537671729264,
+    "timestamp": 1746053538,
+    "block_number": 11,
+    "amount_out": 366.4029997399727,
+    "fee": 0.003
+  },
+  {
+    "amount_in": 1026,
+    "token_in": "token1",
+    "amm_price": 0.9977175823944955,
+    "external_price": 1.00537671729264,
+    "timestamp": 1746053538,
+    "block_number": 11,
+    "amount_out": 1014.8688914814251,
+    "fee": 0.003
+  },
+  {
+    "amount_in": 681,
+    "token_in": "token0",
+    "amm_price": 1.0182572986471585,
+    "external_price": 1.00537671729264,
+    "timestamp": 1746053538,
+    "block_number": 11,
+    "amount_out": 686.648506908462,
+    "fee": 0.003
+  },
+  {
+    "amount_in": 920,
+    "token_in": "token0",
+    "amm_price": 1.0044466806926449,
+    "external_price": 1.0001551076932054,
+    "timestamp": 1746053538,
+    "block_number": 12,
+    "amount_out": 912.9263507476052,
+    "fee": 0.003
+  },
+  {
+    "amount_in": 908,
+    "token_in": "token1",
+    "amm_price": 0.986230947238209,
+    "external_price": 1.0001551076932054,
+    "timestamp": 1746053538,
+    "block_number": 12,
+    "amount_out": 909.6229358780636,
+    "fee": 0.003
+  },
+  {
+    "amount_in": 465,
+    "token_in": "token1",
+    "amm_price": 1.0042933397211466,
+    "external_price": 1.0001551076932054,
+    "timestamp": 1746053538,
+    "block_number": 12,
+    "amount_out": 459.4974005823971,
+    "fee": 0.003
+  },
+  {
+    "amount_in": 381,
+    "token_in": "token1",
+    "amm_price": 1.0136068155002955,
+    "external_price": 1.0001551076932054,
+    "timestamp": 1746053538,
+    "block_number": 12,
+    "amount_out": 373.34909906159504,
+    "fee": 0.003
+  },
+  {
+    "amount_in": 224,
+    "token_in": "token0",
+    "amm_price": 1.02126989643964,
+    "external_price": 1.0001551076932054,
+    "timestamp": 1746053538,
+    "block_number": 12,
+    "amount_out": 225.97039901886018,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 396,
+    "token_in": "token1",
+    "amm_price": 1.0167077839464027,
+    "external_price": 1.0001551076932054,
+    "timestamp": 1746053538,
+    "block_number": 13,
+    "amount_out": 386.80939727982644,
+    "fee": 0.003
+  },
+  {
+    "amount_in": 879,
+    "token_in": "token0",
+    "amm_price": 1.0246853026824085,
+    "external_price": 1.0001551076932054,
+    "timestamp": 1746053538,
+    "block_number": 13,
+    "amount_out": 883.9052069207631,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 945,
+    "token_in": "token1",
+    "amm_price": 1.0068684628921911,
+    "external_price": 1.0001551076932054,
+    "timestamp": 1746053538,
+    "block_number": 13,
+    "amount_out": 927.0335745293995,
+    "fee": 0.003
+  },
+  {
+    "amount_in": 401,
+    "token_in": "token0",
+    "amm_price": 1.02586513189587,
+    "external_price": 1.0001551076932054,
+    "timestamp": 1746053538,
+    "block_number": 13,
+    "amount_out": 405.6272069072554,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 281,
+    "token_in": "token0",
+    "amm_price": 1.0176647948710194,
+    "external_price": 1.0001551076932054,
+    "timestamp": 1746053538,
+    "block_number": 13,
+    "amount_out": 284.3024186620765,
+    "fee": 0.003
+  },
+  {
+    "amount_in": 226,
+    "token_in": "token1",
+    "amm_price": 1.0119368276955334,
+    "external_price": 1.0001551076932054,
+    "timestamp": 1746053538,
+    "block_number": 14,
+    "amount_out": 222.16646835303064,
+    "fee": 0.003
+  },
+  {
+    "amount_in": 942,
+    "token_in": "token1",
+    "amm_price": 1.0164751612061855,
+    "external_price": 1.0001551076932054,
+    "timestamp": 1746053538,
+    "block_number": 14,
+    "amount_out": 915.4242779662916,
+    "fee": 0.003
+  },
+  {
+    "amount_in": 240,
+    "token_in": "token0",
+    "amm_price": 1.0355009443111098,
+    "external_price": 1.0001551076932054,
+    "timestamp": 1746053538,
+    "block_number": 14,
+    "amount_out": 245.44159388890898,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 440,
+    "token_in": "token0",
+    "amm_price": 1.030511762413065,
+    "external_price": 1.0001551076932054,
+    "timestamp": 1746053538,
+    "block_number": 14,
+    "amount_out": 446.9146869405131,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 477,
+    "token_in": "token1",
+    "amm_price": 1.0214581049860794,
+    "external_price": 1.0001551076932054,
+    "timestamp": 1746053538,
+    "block_number": 14,
+    "amount_out": 460.1596435610724,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 559,
+    "token_in": "token0",
+    "amm_price": 1.031025798871677,
+    "external_price": 1.0042680151431902,
+    "timestamp": 1746053538,
+    "block_number": 15,
+    "amount_out": 567.3916467751335,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 664,
+    "token_in": "token0",
+    "amm_price": 1.019535466121658,
+    "external_price": 1.0042680151431902,
+    "timestamp": 1746053538,
+    "block_number": 15,
+    "amount_out": 670.4589983354309,
+    "fee": 0.003
+  },
+  {
+    "amount_in": 364,
+    "token_in": "token0",
+    "amm_price": 1.0060408938939995,
+    "external_price": 1.0042680151431902,
+    "timestamp": 1746053538,
+    "block_number": 15,
+    "amount_out": 363.776134519351,
+    "fee": 0.003
+  },
+  {
+    "amount_in": 328,
+    "token_in": "token0",
+    "amm_price": 0.998756662268714,
+    "external_price": 1.0042680151431902,
+    "timestamp": 1746053538,
+    "block_number": 15,
+    "amount_out": 325.54548487136407,
+    "fee": 0.003
+  },
+  {
+    "amount_in": 944,
+    "token_in": "token0",
+    "amm_price": 0.99226039944633,
+    "external_price": 1.0042680151431902,
+    "timestamp": 1746053538,
+    "block_number": 15,
+    "amount_out": 925.2097206183562,
+    "fee": 0.003
+  },
+  {
+    "amount_in": 471,
+    "token_in": "token1",
+    "amm_price": 0.9739135529655496,
+    "external_price": 1.0042680151431902,
+    "timestamp": 1746053538,
+    "block_number": 16,
+    "amount_out": 476.5280956667923,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 781,
+    "token_in": "token1",
+    "amm_price": 0.9831386533102965,
+    "external_price": 1.0042680151431902,
+    "timestamp": 1746053538,
+    "block_number": 16,
+    "amount_out": 780.3653886821809,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 776,
+    "token_in": "token0",
+    "amm_price": 0.9985313111044322,
+    "external_price": 1.0042680151431902,
+    "timestamp": 1746053538,
+    "block_number": 16,
+    "amount_out": 766.6090341047036,
+    "fee": 0.003
+  },
+  {
+    "amount_in": 216,
+    "token_in": "token0",
+    "amm_price": 0.9832691626022795,
+    "external_price": 1.0042680151431902,
+    "timestamp": 1746053538,
+    "block_number": 16,
+    "amount_out": 209.81737343282538,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 674,
+    "token_in": "token1",
+    "amm_price": 0.9791124697422006,
+    "external_price": 1.0042680151431902,
+    "timestamp": 1746053538,
+    "block_number": 16,
+    "amount_out": 676.9299340030336,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 426,
+    "token_in": "token1",
+    "amm_price": 0.9923620837015743,
+    "external_price": 1.0042680151431902,
+    "timestamp": 1746053538,
+    "block_number": 17,
+    "amount_out": 426.1739522147372,
+    "fee": 0.003
+  },
+  {
+    "amount_in": 887,
+    "token_in": "token1",
+    "amm_price": 1.0008420604874164,
+    "external_price": 1.0042680151431902,
+    "timestamp": 1746053538,
+    "block_number": 17,
+    "amount_out": 875.8527115217605,
+    "fee": 0.003
+  },
+  {
+    "amount_in": 220,
+    "token_in": "token1",
+    "amm_price": 1.0186144911364257,
+    "external_price": 1.0042680151431902,
+    "timestamp": 1746053538,
+    "block_number": 17,
+    "amount_out": 214.8647515071037,
+    "fee": 0.003
+  },
+  {
+    "amount_in": 628,
+    "token_in": "token0",
+    "amm_price": 1.023046742910058,
+    "external_price": 1.0042680151431902,
+    "timestamp": 1746053538,
+    "block_number": 17,
+    "amount_out": 636.5149497914842,
+    "fee": 0.003
+  },
+  {
+    "amount_in": 740,
+    "token_in": "token1",
+    "amm_price": 1.0102110986926691,
+    "external_price": 1.0042680151431902,
+    "timestamp": 1746053538,
+    "block_number": 17,
+    "amount_out": 725.0007947019008,
+    "fee": 0.003
+  },
+  {
+    "amount_in": 288,
+    "token_in": "token1",
+    "amm_price": 1.0250962747306795,
+    "external_price": 1.001408798864519,
+    "timestamp": 1746053538,
+    "block_number": 18,
+    "amount_out": 277.3586641028078,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 358,
+    "token_in": "token1",
+    "amm_price": 1.0308779151792908,
+    "external_price": 1.001408798864519,
+    "timestamp": 1746053538,
+    "block_number": 18,
+    "amount_out": 342.6080999593428,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 319,
+    "token_in": "token1",
+    "amm_price": 1.038087482035842,
+    "external_price": 1.001408798864519,
+    "timestamp": 1746053538,
+    "block_number": 18,
+    "amount_out": 303.2828526216988,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 444,
+    "token_in": "token0",
+    "amm_price": 1.044532815684667,
+    "external_price": 1.001408798864519,
+    "timestamp": 1746053538,
+    "block_number": 18,
+    "amount_out": 457.0814480279607,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 508,
+    "token_in": "token1",
+    "amm_price": 1.0352107449102357,
+    "external_price": 1.001408798864519,
+    "timestamp": 1746053538,
+    "block_number": 18,
+    "amount_out": 483.4245886083865,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 217,
+    "token_in": "token1",
+    "amm_price": 1.0454699876987232,
+    "external_price": 1.001408798864519,
+    "timestamp": 1746053538,
+    "block_number": 19,
+    "amount_out": 205.05569500651887,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 390,
+    "token_in": "token0",
+    "amm_price": 1.0498678002028825,
+    "external_price": 1.001408798864519,
+    "timestamp": 1746053538,
+    "block_number": 19,
+    "amount_out": 403.75665650599814,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 818,
+    "token_in": "token0",
+    "amm_price": 1.0416100739035274,
+    "external_price": 1.001408798864519,
+    "timestamp": 1746053538,
+    "block_number": 19,
+    "amount_out": 836.6021812628147,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 1028,
+    "token_in": "token1",
+    "amm_price": 1.0246034576063847,
+    "external_price": 1.001408798864519,
+    "timestamp": 1746053538,
+    "block_number": 19,
+    "amount_out": 983.3945217592084,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 531,
+    "token_in": "token0",
+    "amm_price": 1.0453103058335236,
+    "external_price": 1.001408798864519,
+    "timestamp": 1746053538,
+    "block_number": 19,
+    "amount_out": 546.5715295019791,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 634,
+    "token_in": "token1",
+    "amm_price": 1.034163839556314,
+    "external_price": 1.001408798864519,
+    "timestamp": 1746053538,
+    "block_number": 20,
+    "amount_out": 603.2021114579081,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 262,
+    "token_in": "token0",
+    "amm_price": 1.0469690671901197,
+    "external_price": 1.001408798864519,
+    "timestamp": 1746053538,
+    "block_number": 20,
+    "amount_out": 270.8440125127987,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 249,
+    "token_in": "token0",
+    "amm_price": 1.041433769366102,
+    "external_price": 1.001408798864519,
+    "timestamp": 1746053538,
+    "block_number": 20,
+    "amount_out": 256.0796315363957,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 457,
+    "token_in": "token0",
+    "amm_price": 1.0362137078394402,
+    "external_price": 1.001408798864519,
+    "timestamp": 1746053538,
+    "block_number": 20,
+    "amount_out": 466.66494601867623,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 298,
+    "token_in": "token1",
+    "amm_price": 1.0267346927632939,
+    "external_price": 1.001408798864519,
+    "timestamp": 1746053538,
+    "block_number": 20,
+    "amount_out": 286.50393720336734,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 215,
+    "token_in": "token1",
+    "amm_price": 1.0327221489057727,
+    "external_price": 1.0073805515174716,
+    "timestamp": 1746053538,
+    "block_number": 21,
+    "amount_out": 205.67498830936714,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 648,
+    "token_in": "token0",
+    "amm_price": 1.0370527678805783,
+    "external_price": 1.0073805515174716,
+    "timestamp": 1746053538,
+    "block_number": 21,
+    "amount_out": 660.9719818795031,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 208,
+    "token_in": "token0",
+    "amm_price": 1.0236343357777045,
+    "external_price": 1.0073805515174716,
+    "timestamp": 1746053538,
+    "block_number": 21,
+    "amount_out": 211.8327428957209,
+    "fee": 0.003
+  },
+  {
+    "amount_in": 194,
+    "token_in": "token0",
+    "amm_price": 1.0193523953390486,
+    "external_price": 1.0073805515174716,
+    "timestamp": 1746053538,
+    "block_number": 21,
+    "amount_out": 196.7768346525115,
+    "fee": 0.003
+  },
+  {
+    "amount_in": 750,
+    "token_in": "token1",
+    "amm_price": 1.015382832205612,
+    "external_price": 1.0073805515174716,
+    "timestamp": 1746053538,
+    "block_number": 21,
+    "amount_out": 730.9972782967784,
+    "fee": 0.003
+  },
+  {
+    "amount_in": 917,
+    "token_in": "token1",
+    "amm_price": 1.0305083313565782,
+    "external_price": 1.0073805515174716,
+    "timestamp": 1746053538,
+    "block_number": 22,
+    "amount_out": 873.1451196607347,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 537,
+    "token_in": "token1",
+    "amm_price": 1.0490222298679905,
+    "external_price": 1.0073805515174716,
+    "timestamp": 1746053538,
+    "block_number": 22,
+    "amount_out": 504.1692714806227,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 824,
+    "token_in": "token1",
+    "amm_price": 1.0599405917585185,
+    "external_price": 1.0073805515174716,
+    "timestamp": 1746053538,
+    "block_number": 22,
+    "amount_out": 763.5777675846462,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 111,
+    "token_in": "token1",
+    "amm_price": 1.0768041939643296,
+    "external_price": 1.0073805515174716,
+    "timestamp": 1746053538,
+    "block_number": 22,
+    "amount_out": 101.944022748531,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 650,
+    "token_in": "token0",
+    "amm_price": 1.0790860405011664,
+    "external_price": 1.0073805515174716,
+    "timestamp": 1746053538,
+    "block_number": 22,
+    "amount_out": 689.7809450013606,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 963,
+    "token_in": "token1",
+    "amm_price": 1.0648028601795918,
+    "external_price": 1.0073805515174716,
+    "timestamp": 1746053538,
+    "block_number": 23,
+    "amount_out": 887.152397605194,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 405,
+    "token_in": "token1",
+    "amm_price": 1.0845692654015637,
+    "external_price": 1.0073805515174716,
+    "timestamp": 1746053538,
+    "block_number": 23,
+    "amount_out": 368.2680973552589,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 842,
+    "token_in": "token0",
+    "amm_price": 1.092936541020737,
+    "external_price": 1.0073805515174716,
+    "timestamp": 1746053538,
+    "block_number": 23,
+    "amount_out": 903.1792449224902,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 396,
+    "token_in": "token0",
+    "amm_price": 1.0741337913953795,
+    "external_price": 1.0073805515174716,
+    "timestamp": 1746053538,
+    "block_number": 23,
+    "amount_out": 419.3993420330288,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 745,
+    "token_in": "token1",
+    "amm_price": 1.0654580356766497,
+    "external_price": 1.0073805515174716,
+    "timestamp": 1746053538,
+    "block_number": 23,
+    "amount_out": 687.3263088346482,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 506,
+    "token_in": "token0",
+    "amm_price": 1.0807385673281065,
+    "external_price": 1.0120087735126357,
+    "timestamp": 1746053538,
+    "block_number": 24,
+    "amount_out": 538.5804121973324,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 386,
+    "token_in": "token0",
+    "amm_price": 1.0695695635940756,
+    "external_price": 1.0120087735126357,
+    "timestamp": 1746053538,
+    "block_number": 24,
+    "amount_out": 407.11635186090433,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 620,
+    "token_in": "token0",
+    "amm_price": 1.0611653436453543,
+    "external_price": 1.0120087735126357,
+    "timestamp": 1746053538,
+    "block_number": 24,
+    "amount_out": 647.250766271974,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 1043,
+    "token_in": "token1",
+    "amm_price": 1.0478722039035537,
+    "external_price": 1.0120087735126357,
+    "timestamp": 1746053538,
+    "block_number": 24,
+    "amount_out": 975.5563673019312,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 865,
+    "token_in": "token1",
+    "amm_price": 1.0691187595301546,
+    "external_price": 1.0120087735126357,
+    "timestamp": 1746053538,
+    "block_number": 24,
+    "amount_out": 794.4074573520104,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 346,
+    "token_in": "token0",
+    "amm_price": 1.086901102637317,
+    "external_price": 1.0120087735126357,
+    "timestamp": 1746053538,
+    "block_number": 25,
+    "amount_out": 370.98227578630787,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 715,
+    "token_in": "token0",
+    "amm_price": 1.079179547438451,
+    "external_price": 1.0120087735126357,
+    "timestamp": 1746053538,
+    "block_number": 25,
+    "amount_out": 758.3210062681892,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 119,
+    "token_in": "token1",
+    "amm_price": 1.0634816343142004,
+    "external_price": 1.0120087735126357,
+    "timestamp": 1746053538,
+    "block_number": 25,
+    "amount_out": 110.6512458279019,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 1018,
+    "token_in": "token1",
+    "amm_price": 1.065912859277844,
+    "external_price": 1.0120087735126357,
+    "timestamp": 1746053538,
+    "block_number": 25,
+    "amount_out": 936.3590432915378,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 738,
+    "token_in": "token0",
+    "amm_price": 1.0868245127136908,
+    "external_price": 1.0120087735126357,
+    "timestamp": 1746053538,
+    "block_number": 25,
+    "amount_out": 788.0532988470169,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 1026,
+    "token_in": "token1",
+    "amm_price": 1.070455566180814,
+    "external_price": 1.0120087735126357,
+    "timestamp": 1746053538,
+    "block_number": 26,
+    "amount_out": 939.6606577539444,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 350,
+    "token_in": "token0",
+    "amm_price": 1.0915770044425415,
+    "external_price": 1.0120087735126357,
+    "timestamp": 1746053538,
+    "block_number": 26,
+    "amount_out": 376.8671044581516,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 630,
+    "token_in": "token1",
+    "amm_price": 1.0837163006504535,
+    "external_price": 1.0120087735126357,
+    "timestamp": 1746053538,
+    "block_number": 26,
+    "amount_out": 572.0920753767766,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 111,
+    "token_in": "token1",
+    "amm_price": 1.096740846316441,
+    "external_price": 1.0120087735126357,
+    "timestamp": 1746053538,
+    "block_number": 26,
+    "amount_out": 100.09184205842412,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 444,
+    "token_in": "token0",
+    "amm_price": 1.0990437086400058,
+    "external_price": 1.0120087735126357,
+    "timestamp": 1746053538,
+    "block_number": 26,
+    "amount_out": 480.8796917187875,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 256,
+    "token_in": "token0",
+    "amm_price": 1.0889842012130535,
+    "external_price": 1.0172530469952783,
+    "timestamp": 1746053538,
+    "block_number": 27,
+    "amount_out": 275.2641488788206,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 559,
+    "token_in": "token0",
+    "amm_price": 1.083246772908765,
+    "external_price": 1.0172530469952783,
+    "timestamp": 1746053538,
+    "block_number": 27,
+    "amount_out": 596.0464620889521,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 206,
+    "token_in": "token1",
+    "amm_price": 1.0708750992142901,
+    "external_price": 1.0172530469952783,
+    "timestamp": 1746053538,
+    "block_number": 27,
+    "amount_out": 190.0678002086238,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 796,
+    "token_in": "token0",
+    "amm_price": 1.075100126853662,
+    "external_price": 1.0172530469952783,
+    "timestamp": 1746053538,
+    "block_number": 27,
+    "amount_out": 840.3553993916041,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 558,
+    "token_in": "token1",
+    "amm_price": 1.057743954597969,
+    "external_price": 1.0172530469952783,
+    "timestamp": 1746053538,
+    "block_number": 27,
+    "amount_out": 519.4722585583534,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 373,
+    "token_in": "token0",
+    "amm_price": 1.0691373839546838,
+    "external_price": 1.0172530469952783,
+    "timestamp": 1746053538,
+    "block_number": 28,
+    "amount_out": 393.29866152454593,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 432,
+    "token_in": "token0",
+    "amm_price": 1.061019506827526,
+    "external_price": 1.0172530469952783,
+    "timestamp": 1746053538,
+    "block_number": 28,
+    "amount_out": 451.78654387876315,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 508,
+    "token_in": "token1",
+    "amm_price": 1.051732590956444,
+    "external_price": 1.0172530469952783,
+    "timestamp": 1746053538,
+    "block_number": 28,
+    "amount_out": 475.84884614829014,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 606,
+    "token_in": "token1",
+    "amm_price": 1.0620731768131138,
+    "external_price": 1.0172530469952783,
+    "timestamp": 1746053538,
+    "block_number": 28,
+    "amount_out": 561.6069690172245,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 1055,
+    "token_in": "token1",
+    "amm_price": 1.0744747650816664,
+    "external_price": 1.0172530469952783,
+    "timestamp": 1746053538,
+    "block_number": 28,
+    "amount_out": 962.3595670288234,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 886,
+    "token_in": "token0",
+    "amm_price": 1.096236737196079,
+    "external_price": 1.0172530469952783,
+    "timestamp": 1746053538,
+    "block_number": 29,
+    "amount_out": 952.8027682929829,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 890,
+    "token_in": "token1",
+    "amm_price": 1.076375578123982,
+    "external_price": 1.0172530469952783,
+    "timestamp": 1746053538,
+    "block_number": 29,
+    "amount_out": 811.6870701481531,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 493,
+    "token_in": "token0",
+    "amm_price": 1.0947357763612955,
+    "external_price": 1.0172530469952783,
+    "timestamp": 1746053538,
+    "block_number": 29,
+    "amount_out": 531.5930266118171,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 379,
+    "token_in": "token1",
+    "amm_price": 1.083639960007861,
+    "external_price": 1.0172530469952783,
+    "timestamp": 1746053538,
+    "block_number": 29,
+    "amount_out": 345.00615271497617,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 1073,
+    "token_in": "token0",
+    "amm_price": 1.0914657625394928,
+    "external_price": 1.0172530469952783,
+    "timestamp": 1746053538,
+    "block_number": 29,
+    "amount_out": 1146.7053387748583,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 573,
+    "token_in": "token1",
+    "amm_price": 1.0676372517146415,
+    "external_price": 1.0208800208825137,
+    "timestamp": 1746053538,
+    "block_number": 30,
+    "amount_out": 528.431029550785,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 667,
+    "token_in": "token0",
+    "amm_price": 1.0793922397672595,
+    "external_price": 1.0208800208825137,
+    "timestamp": 1746053538,
+    "block_number": 30,
+    "amount_out": 707.8985963342353,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 148,
+    "token_in": "token0",
+    "amm_price": 1.064733096281901,
+    "external_price": 1.0208800208825137,
+    "timestamp": 1746053538,
+    "block_number": 30,
+    "amount_out": 155.769188964803,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 491,
+    "token_in": "token1",
+    "amm_price": 1.0615208857432386,
+    "external_price": 1.0208800208825137,
+    "timestamp": 1746053538,
+    "block_number": 30,
+    "amount_out": 455.7681644180324,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 771,
+    "token_in": "token1",
+    "amm_price": 1.071560897822206,
+    "external_price": 1.0208800208825137,
+    "timestamp": 1746053538,
+    "block_number": 30,
+    "amount_out": 707.1021186460043,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 720,
+    "token_in": "token0",
+    "amm_price": 1.0874217389638756,
+    "external_price": 1.0208800208825137,
+    "timestamp": 1746053538,
+    "block_number": 31,
+    "amount_out": 769.3952667565915,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 887,
+    "token_in": "token1",
+    "amm_price": 1.0714345027153565,
+    "external_price": 1.0208800208825137,
+    "timestamp": 1746053538,
+    "block_number": 31,
+    "amount_out": 812.6890008888724,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 504,
+    "token_in": "token1",
+    "amm_price": 1.0896906823520551,
+    "external_price": 1.0208800208825137,
+    "timestamp": 1746053538,
+    "block_number": 31,
+    "amount_out": 455.71316743820717,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 305,
+    "token_in": "token1",
+    "amm_price": 1.1001326907450628,
+    "external_price": 1.0208800208825137,
+    "timestamp": 1746053538,
+    "block_number": 31,
+    "amount_out": 273.67902262813533,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 787,
+    "token_in": "token0",
+    "amm_price": 1.106475946761932,
+    "external_price": 1.0208800208825137,
+    "timestamp": 1746053538,
+    "block_number": 31,
+    "amount_out": 855.0807023839188,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 317,
+    "token_in": "token1",
+    "amm_price": 1.0885600188294944,
+    "external_price": 1.0208800208825137,
+    "timestamp": 1746053538,
+    "block_number": 32,
+    "amount_out": 287.4337157818885,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 217,
+    "token_in": "token1",
+    "amm_price": 1.0951185006032707,
+    "external_price": 1.0208800208825137,
+    "timestamp": 1746053538,
+    "block_number": 32,
+    "amount_out": 195.7686609826079,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 152,
+    "token_in": "token1",
+    "amm_price": 1.099619417884629,
+    "external_price": 1.0208800208825137,
+    "timestamp": 1746053538,
+    "block_number": 32,
+    "amount_out": 136.65124984828182,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 100,
+    "token_in": "token1",
+    "amm_price": 1.102777631321889,
+    "external_price": 1.0208800208825137,
+    "timestamp": 1746053538,
+    "block_number": 32,
+    "amount_out": 89.68875862926339,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 770,
+    "token_in": "token1",
+    "amm_price": 1.1048578731720866,
+    "external_price": 1.0208800208825137,
+    "timestamp": 1746053538,
+    "block_number": 32,
+    "amount_out": 684.9853121186186,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 117,
+    "token_in": "token1",
+    "amm_price": 1.1209413923176073,
+    "external_price": 1.0176676309731474,
+    "timestamp": 1746053538,
+    "block_number": 33,
+    "amount_out": 103.21986294322691,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 707,
+    "token_in": "token1",
+    "amm_price": 1.1233954231000283,
+    "external_price": 1.0176676309731474,
+    "timestamp": 1746053538,
+    "block_number": 33,
+    "amount_out": 618.9612053836307,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 231,
+    "token_in": "token1",
+    "amm_price": 1.1382815783945945,
+    "external_price": 1.0176676309731474,
+    "timestamp": 1746053538,
+    "block_number": 33,
+    "amount_out": 200.47838524134943,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 115,
+    "token_in": "token1",
+    "amm_price": 1.143166608319441,
+    "external_price": 1.0176676309731474,
+    "timestamp": 1746053538,
+    "block_number": 33,
+    "amount_out": 99.48584728530997,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 369,
+    "token_in": "token0",
+    "amm_price": 1.145602449441918,
+    "external_price": 1.0176676309731474,
+    "timestamp": 1746053538,
+    "block_number": 33,
+    "amount_out": 416.87006221881245,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 1011,
+    "token_in": "token1",
+    "amm_price": 1.1366960718646577,
+    "external_price": 1.0176676309731474,
+    "timestamp": 1746053538,
+    "block_number": 34,
+    "amount_out": 872.3362831788229,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 875,
+    "token_in": "token0",
+    "amm_price": 1.1581384175118494,
+    "external_price": 1.0176676309731474,
+    "timestamp": 1746053538,
+    "block_number": 34,
+    "amount_out": 993.9712968672854,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 975,
+    "token_in": "token1",
+    "amm_price": 1.1368436054724638,
+    "external_price": 1.0176676309731474,
+    "timestamp": 1746053538,
+    "block_number": 34,
+    "amount_out": 841.4438423281276,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 892,
+    "token_in": "token1",
+    "amm_price": 1.1575203209632678,
+    "external_price": 1.0176676309731474,
+    "timestamp": 1746053538,
+    "block_number": 34,
+    "amount_out": 756.6957571357166,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 603,
+    "token_in": "token0",
+    "amm_price": 1.1766000871020332,
+    "external_price": 1.0176676309731474,
+    "timestamp": 1746053538,
+    "block_number": 34,
+    "amount_out": 697.8759246562331,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 466,
+    "token_in": "token1",
+    "amm_price": 1.1615089026135386,
+    "external_price": 1.0176676309731474,
+    "timestamp": 1746053538,
+    "block_number": 35,
+    "amount_out": 395.497254390345,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 348,
+    "token_in": "token0",
+    "amm_price": 1.1714742149864423,
+    "external_price": 1.0176676309731474,
+    "timestamp": 1746053538,
+    "block_number": 35,
+    "amount_out": 402.09691711573777,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 180,
+    "token_in": "token1",
+    "amm_price": 1.1627862183624313,
+    "external_price": 1.0176676309731474,
+    "timestamp": 1746053538,
+    "block_number": 35,
+    "amount_out": 152.99974879020894,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 389,
+    "token_in": "token0",
+    "amm_price": 1.1666325465210683,
+    "external_price": 1.0176676309731474,
+    "timestamp": 1746053538,
+    "block_number": 35,
+    "amount_out": 447.420767407619,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 602,
+    "token_in": "token0",
+    "amm_price": 1.1569873131371757,
+    "external_price": 1.0176676309731474,
+    "timestamp": 1746053538,
+    "block_number": 35,
+    "amount_out": 685.1491092590902,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 312,
+    "token_in": "token0",
+    "amm_price": 1.1422948701000408,
+    "external_price": 1.0239965696096343,
+    "timestamp": 1746053538,
+    "block_number": 36,
+    "amount_out": 351.6710840069182,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 1069,
+    "token_in": "token1",
+    "amm_price": 1.1347900431724331,
+    "external_price": 1.0239965696096343,
+    "timestamp": 1746053538,
+    "block_number": 36,
+    "amount_out": 923.4302245425363,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 140,
+    "token_in": "token0",
+    "amm_price": 1.1574496624163741,
+    "external_price": 1.0239965696096343,
+    "timestamp": 1746053538,
+    "block_number": 36,
+    "amount_out": 160.1836692079257,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 1036,
+    "token_in": "token1",
+    "amm_price": 1.1540055615874398,
+    "external_price": 1.0239965696096343,
+    "timestamp": 1746053538,
+    "block_number": 36,
+    "amount_out": 880.3599516669212,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 614,
+    "token_in": "token1",
+    "amm_price": 1.176146559113334,
+    "external_price": 1.0239965696096343,
+    "timestamp": 1746053538,
+    "block_number": 36,
+    "amount_out": 513.9427154117786,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 945,
+    "token_in": "token0",
+    "amm_price": 1.1893680272536957,
+    "external_price": 1.0239965696096343,
+    "timestamp": 1746053538,
+    "block_number": 37,
+    "amount_out": 1101.47497993658,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 461,
+    "token_in": "token0",
+    "amm_price": 1.1654643870571808,
+    "external_price": 1.0239965696096343,
+    "timestamp": 1746053538,
+    "block_number": 37,
+    "amount_out": 529.2984199109404,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 533,
+    "token_in": "token1",
+    "amm_price": 1.1540641431447665,
+    "external_price": 1.0239965696096343,
+    "timestamp": 1746053538,
+    "block_number": 37,
+    "amount_out": 454.9927505494782,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 264,
+    "token_in": "token1",
+    "amm_price": 1.1654292275622464,
+    "external_price": 1.0239965696096343,
+    "timestamp": 1746053538,
+    "block_number": 37,
+    "amount_out": 223.71909633644236,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 235,
+    "token_in": "token0",
+    "amm_price": 1.1710790847088905,
+    "external_price": 1.0239965696096343,
+    "timestamp": 1746053538,
+    "block_number": 37,
+    "amount_out": 271.7673327495018,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 554,
+    "token_in": "token1",
+    "amm_price": 1.165204533573289,
+    "external_price": 1.0239965696096343,
+    "timestamp": 1746053538,
+    "block_number": 38,
+    "amount_out": 468.3189779737201,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 429,
+    "token_in": "token0",
+    "amm_price": 1.1770752778770817,
+    "external_price": 1.0239965696096343,
+    "timestamp": 1746053538,
+    "block_number": 38,
+    "amount_out": 497.6226902318828,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 745,
+    "token_in": "token0",
+    "amm_price": 1.166302315038253,
+    "external_price": 1.0239965696096343,
+    "timestamp": 1746053538,
+    "block_number": 38,
+    "amount_out": 853.4086960153736,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 507,
+    "token_in": "token0",
+    "amm_price": 1.147942289760688,
+    "external_price": 1.0239965696096343,
+    "timestamp": 1746053538,
+    "block_number": 38,
+    "amount_out": 573.1046417549109,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 437,
+    "token_in": "token0",
+    "amm_price": 1.1356944112673146,
+    "external_price": 1.0239965696096343,
+    "timestamp": 1746053538,
+    "block_number": 38,
+    "amount_out": 489.08057055337156,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 351,
+    "token_in": "token0",
+    "amm_price": 1.1252941692931755,
+    "external_price": 1.0277014719003488,
+    "timestamp": 1746053538,
+    "block_number": 39,
+    "amount_out": 389.59236724069257,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 456,
+    "token_in": "token1",
+    "amm_price": 1.11704376492505,
+    "external_price": 1.0277014719003488,
+    "timestamp": 1746053538,
+    "block_number": 39,
+    "amount_out": 402.41927671965635,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 411,
+    "token_in": "token1",
+    "amm_price": 1.126606709742272,
+    "external_price": 1.0277014719003488,
+    "timestamp": 1746053538,
+    "block_number": 39,
+    "amount_out": 359.7849691877216,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 455,
+    "token_in": "token1",
+    "amm_price": 1.13526086748927,
+    "external_price": 1.0277014719003488,
+    "timestamp": 1746053538,
+    "block_number": 39,
+    "amount_out": 395.11066229831334,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 442,
+    "token_in": "token0",
+    "amm_price": 1.1448801232914287,
+    "external_price": 1.0277014719003488,
+    "timestamp": 1746053538,
+    "block_number": 39,
+    "amount_out": 498.6419700565157,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 152,
+    "token_in": "token1",
+    "amm_price": 1.1342341421435949,
+    "external_price": 1.0277014719003488,
+    "timestamp": 1746053538,
+    "block_number": 40,
+    "amount_out": 132.48382621478393,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 363,
+    "token_in": "token0",
+    "amm_price": 1.1374416434840713,
+    "external_price": 1.0277014719003488,
+    "timestamp": 1746053538,
+    "block_number": 40,
+    "amount_out": 407.2017158141524,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 781,
+    "token_in": "token1",
+    "amm_price": 1.1287725381633003,
+    "external_price": 1.0277014719003488,
+    "timestamp": 1746053538,
+    "block_number": 40,
+    "amount_out": 680.0340436020791,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 298,
+    "token_in": "token1",
+    "amm_price": 1.1452616348800488,
+    "external_price": 1.0277014719003488,
+    "timestamp": 1746053538,
+    "block_number": 40,
+    "amount_out": 256.8923356408909,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 246,
+    "token_in": "token0",
+    "amm_price": 1.1515847635797034,
+    "external_price": 1.0277014719003488,
+    "timestamp": 1746053538,
+    "block_number": 40,
+    "amount_out": 279.7258968409929,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 551,
+    "token_in": "token1",
+    "amm_price": 1.1455890037650078,
+    "external_price": 1.0277014719003488,
+    "timestamp": 1746053538,
+    "block_number": 41,
+    "amount_out": 473.7510600371462,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 1038,
+    "token_in": "token0",
+    "amm_price": 1.1572957577376601,
+    "external_price": 1.0277014719003488,
+    "timestamp": 1746053538,
+    "block_number": 41,
+    "amount_out": 1176.2568672115192,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 286,
+    "token_in": "token0",
+    "amm_price": 1.1321263184124404,
+    "external_price": 1.0277014719003488,
+    "timestamp": 1746053538,
+    "block_number": 41,
+    "amount_out": 319.5874407112961,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 973,
+    "token_in": "token0",
+    "amm_price": 1.1253356202223022,
+    "external_price": 1.0277014719003488,
+    "timestamp": 1746053538,
+    "block_number": 41,
+    "amount_out": 1073.0371641919555,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 339,
+    "token_in": "token0",
+    "amm_price": 1.102684810326895,
+    "external_price": 1.0277014719003488,
+    "timestamp": 1746053538,
+    "block_number": 41,
+    "amount_out": 368.77242130093583,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 310,
+    "token_in": "token1",
+    "amm_price": 1.0949535397409145,
+    "external_price": 1.0179348039672993,
+    "timestamp": 1746053538,
+    "block_number": 42,
+    "amount_out": 279.46621514584814,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 829,
+    "token_in": "token1",
+    "amm_price": 1.1013857634022437,
+    "external_price": 1.0179348039672993,
+    "timestamp": 1746053538,
+    "block_number": 42,
+    "amount_out": 739.3791359384819,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 153,
+    "token_in": "token0",
+    "amm_price": 1.1186793184994634,
+    "external_price": 1.0179348039672993,
+    "timestamp": 1746053538,
+    "block_number": 42,
+    "amount_out": 169.17532694141454,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 1050,
+    "token_in": "token1",
+    "amm_price": 1.1151035255909874,
+    "external_price": 1.0179348039672993,
+    "timestamp": 1746053538,
+    "block_number": 42,
+    "amount_out": 923.1134125401306,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 382,
+    "token_in": "token1",
+    "amm_price": 1.1371655019436961,
+    "external_price": 1.0179348039672993,
+    "timestamp": 1746053538,
+    "block_number": 42,
+    "amount_out": 331.3884957030459,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 613,
+    "token_in": "token0",
+    "amm_price": 1.1452454728771122,
+    "external_price": 1.0179348039672993,
+    "timestamp": 1746053538,
+    "block_number": 43,
+    "amount_out": 690.5304777866935,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 679,
+    "token_in": "token1",
+    "amm_price": 1.1305135745262036,
+    "external_price": 1.0179348039672993,
+    "timestamp": 1746053538,
+    "block_number": 43,
+    "amount_out": 590.8702732112358,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 461,
+    "token_in": "token0",
+    "amm_price": 1.144853389069264,
+    "external_price": 1.0179348039672993,
+    "timestamp": 1746053538,
+    "block_number": 43,
+    "amount_out": 519.960528717743,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 1091,
+    "token_in": "token1",
+    "amm_price": 1.133753496155369,
+    "external_price": 1.0179348039672993,
+    "timestamp": 1746053538,
+    "block_number": 43,
+    "amount_out": 943.1007795024448,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 882,
+    "token_in": "token1",
+    "amm_price": 1.156871290253223,
+    "external_price": 1.0179348039672993,
+    "timestamp": 1746053538,
+    "block_number": 43,
+    "amount_out": 748.6990271131164,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 687,
+    "token_in": "token0",
+    "amm_price": 1.1757310249796065,
+    "external_price": 1.0179348039672993,
+    "timestamp": 1746053538,
+    "block_number": 44,
+    "amount_out": 793.7959142251874,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 869,
+    "token_in": "token1",
+    "amm_price": 1.1585795983639662,
+    "external_price": 1.0179348039672993,
+    "timestamp": 1746053538,
+    "block_number": 44,
+    "amount_out": 736.6678544453288,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 426,
+    "token_in": "token0",
+    "amm_price": 1.1771739069064644,
+    "external_price": 1.0179348039672993,
+    "timestamp": 1746053538,
+    "block_number": 44,
+    "amount_out": 494.199973293503,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 467,
+    "token_in": "token0",
+    "amm_price": 1.1664744235706686,
+    "external_price": 1.0179348039672993,
+    "timestamp": 1746053538,
+    "block_number": 44,
+    "amount_out": 536.6166199804429,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 720,
+    "token_in": "token1",
+    "amm_price": 1.1549119305383313,
+    "external_price": 1.0179348039672993,
+    "timestamp": 1746053538,
+    "block_number": 44,
+    "amount_out": 613.1232286348915,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 976,
+    "token_in": "token0",
+    "amm_price": 1.1702832100447182,
+    "external_price": 1.0280160517102273,
+    "timestamp": 1746053538,
+    "block_number": 45,
+    "amount_out": 1119.0770182950776,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 481,
+    "token_in": "token1",
+    "amm_price": 1.146196176080857,
+    "external_price": 1.0280160517102273,
+    "timestamp": 1746053538,
+    "block_number": 45,
+    "amount_out": 413.6127514072568,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 331,
+    "token_in": "token0",
+    "amm_price": 1.1564150846088377,
+    "external_price": 1.0280160517102273,
+    "timestamp": 1746053538,
+    "block_number": 45,
+    "amount_out": 377.6149923683694,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 190,
+    "token_in": "token1",
+    "amm_price": 1.148307846727053,
+    "external_price": 1.0280160517102273,
+    "timestamp": 1746053538,
+    "block_number": 45,
+    "amount_out": 163.5192173163917,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 1029,
+    "token_in": "token1",
+    "amm_price": 1.1523427112401532,
+    "external_price": 1.0280160517102273,
+    "timestamp": 1746053538,
+    "block_number": 45,
+    "amount_out": 875.7233905255268,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 241,
+    "token_in": "token0",
+    "amm_price": 1.1743176269394513,
+    "external_price": 1.0280160517102273,
+    "timestamp": 1746053538,
+    "block_number": 46,
+    "amount_out": 279.45790339537444,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 517,
+    "token_in": "token0",
+    "amm_price": 1.1682686931091086,
+    "external_price": 1.0280160517102273,
+    "timestamp": 1746053538,
+    "block_number": 46,
+    "amount_out": 594.6651643685542,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 170,
+    "token_in": "token1",
+    "amm_price": 1.1554490030211109,
+    "external_price": 1.0280160517102273,
+    "timestamp": 1746053538,
+    "block_number": 46,
+    "amount_out": 145.42996192324654,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 578,
+    "token_in": "token0",
+    "amm_price": 1.1590700099620237,
+    "external_price": 1.0280160517102273,
+    "timestamp": 1746053538,
+    "block_number": 46,
+    "amount_out": 659.1821317595104,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 1049,
+    "token_in": "token0",
+    "amm_price": 1.1449199374086076,
+    "external_price": 1.0280160517102273,
+    "timestamp": 1746053538,
+    "block_number": 46,
+    "amount_out": 1175.9435387905125,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 836,
+    "token_in": "token0",
+    "amm_price": 1.1198928108854436,
+    "external_price": 1.0280160517102273,
+    "timestamp": 1746053538,
+    "block_number": 47,
+    "amount_out": 918.8205964357442,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 888,
+    "token_in": "token0",
+    "amm_price": 1.1005303982753563,
+    "external_price": 1.0280160517102273,
+    "timestamp": 1746053538,
+    "block_number": 47,
+    "amount_out": 958.6570584662338,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 126,
+    "token_in": "token1",
+    "amm_price": 1.0805084930178892,
+    "external_price": 1.0280160517102273,
+    "timestamp": 1746053538,
+    "block_number": 47,
+    "amount_out": 115.30727304686312,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 975,
+    "token_in": "token0",
+    "amm_price": 1.0831033315155272,
+    "external_price": 1.0280160517102273,
+    "timestamp": 1746053538,
+    "block_number": 47,
+    "amount_out": 1035.0676421763903,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 299,
+    "token_in": "token0",
+    "amm_price": 1.0616661042386408,
+    "external_price": 1.0280160517102273,
+    "timestamp": 1746053538,
+    "block_number": 47,
+    "amount_out": 313.30819238579926,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 1063,
+    "token_in": "token1",
+    "amm_price": 1.0552194417417438,
+    "external_price": 1.02675901037675,
+    "timestamp": 1746053538,
+    "block_number": 48,
+    "amount_out": 987.1862923433115,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 169,
+    "token_in": "token1",
+    "amm_price": 1.076950894790687,
+    "external_price": 1.02675901037675,
+    "timestamp": 1746053538,
+    "block_number": 48,
+    "amount_out": 155.1052092358182,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 1040,
+    "token_in": "token0",
+    "amm_price": 1.0804262547518482,
+    "external_price": 1.02675901037675,
+    "timestamp": 1746053538,
+    "block_number": 48,
+    "amount_out": 1100.6279206456277,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 395,
+    "token_in": "token1",
+    "amm_price": 1.0576667572561278,
+    "external_price": 1.02675901037675,
+    "timestamp": 1746053538,
+    "block_number": 48,
+    "amount_out": 368.3283993544758,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 809,
+    "token_in": "token1",
+    "amm_price": 1.0657253945637142,
+    "external_price": 1.02675901037675,
+    "timestamp": 1746053538,
+    "block_number": 48,
+    "amount_out": 745.7307653966758,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 183,
+    "token_in": "token0",
+    "amm_price": 1.082325765102548,
+    "external_price": 1.02675901037675,
+    "timestamp": 1746053538,
+    "block_number": 49,
+    "amount_out": 195.71607320056694,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 139,
+    "token_in": "token0",
+    "amm_price": 1.0782573356804563,
+    "external_price": 1.02675901037675,
+    "timestamp": 1746053538,
+    "block_number": 49,
+    "amount_out": 148.16727118164096,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 726,
+    "token_in": "token1",
+    "amm_price": 1.0751824177237248,
+    "external_price": 1.02675901037675,
+    "timestamp": 1746053538,
+    "block_number": 49,
+    "amount_out": 663.8801907934023,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 422,
+    "token_in": "token1",
+    "amm_price": 1.0901394507930855,
+    "external_price": 1.02675901037675,
+    "timestamp": 1746053538,
+    "block_number": 49,
+    "amount_out": 381.70802619545094,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 890,
+    "token_in": "token1",
+    "amm_price": 1.0988809653218856,
+    "external_price": 1.02675901037675,
+    "timestamp": 1746053538,
+    "block_number": 49,
+    "amount_out": 795.1324154633013,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 971,
+    "token_in": "token1",
+    "amm_price": 1.1174313052089035,
+    "external_price": 1.02675901037675,
+    "timestamp": 1746053538,
+    "block_number": 50,
+    "amount_out": 852.5150706263064,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 832,
+    "token_in": "token0",
+    "amm_price": 1.1378470415647355,
+    "external_price": 1.02675901037675,
+    "timestamp": 1746053538,
+    "block_number": 50,
+    "amount_out": 929.0589650021319,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 1062,
+    "token_in": "token0",
+    "amm_price": 1.1181128287606663,
+    "external_price": 1.02675901037675,
+    "timestamp": 1746053538,
+    "block_number": 50,
+    "amount_out": 1162.6359974509608,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 613,
+    "token_in": "token1",
+    "amm_price": 1.0936603762633892,
+    "external_price": 1.02675901037675,
+    "timestamp": 1746053538,
+    "block_number": 50,
+    "amount_out": 551.6965320340372,
+    "fee": 0.01
+  },
+  {
+    "amount_in": 365,
+    "token_in": "token0",
+    "amm_price": 1.1063902820625315,
+    "external_price": 1.02675901037675,
+    "timestamp": 1746053538,
+    "block_number": 50,
+    "amount_out": 398.28031942619276,
+    "fee": 0.01
+  }
+]
