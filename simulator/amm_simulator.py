@@ -20,6 +20,10 @@ class AMMSimulator:
         self.txs_per_block = config.get("txs_per_block", 5)
         self.update_frequency = config.get("update_frequency", 3)
 
+        # Toxicity parameters
+        self.toxicity_threshold = config.get("toxicity_threshold", 0.02)
+        self.toxicity_trade_size = config.get("toxicity_trade_size", 500)
+
         self.trade_log = []  # used to store all trade data
         self.timestamp = int(time.time())  # block-level timestamp
 
@@ -65,9 +69,23 @@ class AMMSimulator:
 
                 self.hooks.run_after_swap(context, {"amount_out": result.amount_out})
 
+                # -- Direction-aware toxicity check --
+                price_gap = self.external_price - amm_price
+
+                is_toxic = False
+                if token_in == "token0" and price_gap > self.toxicity_threshold:
+                    is_toxic = True
+                elif token_in == "token1" and -price_gap > self.toxicity_threshold:
+                    is_toxic = True
+
+                # Require minimum trade size
+                is_toxic = is_toxic and amount_in > self.toxicity_trade_size
+
+                # -- Log trade --
                 print(
                     f"  ▸ Tx {tx_index + 1} | {token_in} → {'token1' if token_in == 'token0' else 'token0'} | "
-                    f"AMM Price: {self.amm.get_price():.4f} | Oracle: {self.external_price:.4f} | Fee: {self.amm.get_fee()}"
+                    f"AMM Price: {self.amm.get_price():.4f} | Oracle: {self.external_price:.4f} | "
+                    f"Fee: {self.amm.get_fee()} | Toxic: {is_toxic}"
                 )
 
                 self.trade_log.append({
@@ -78,13 +96,13 @@ class AMMSimulator:
                     "timestamp": block_timestamp,
                     "block_number": block_number,
                     "amount_out": result.amount_out,
-                    "fee": self.amm.get_fee()
+                    "fee": self.amm.get_fee(),
+                    "is_toxic": is_toxic
                 })
 
-            # advance timestamp by 12 seconds per block
-            self.timestamp += 12
+            self.timestamp += 12  # advance time per block
 
-        # write to output file once at the end
+        # Save all trades
         with open("data/trade_data.json", "w") as f:
             json.dump(self.trade_log, f, indent=2)
 
