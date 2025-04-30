@@ -1,20 +1,23 @@
 import random
 import time
-from simulator.AMM import AMM
-from simulator.HookManager import HookManager
-from simulator.Hook import SwapContext
+from simulator.core.AMM import AMM
+from simulator.core.HookManager import HookManager
+from simulator.core.Hook import SwapContext
 from simulator.hooks.DynamicFeeHook import DynamicFeeHook
 
 class AMMSimulator:
-    def __init__(self, num_blocks=50, txs_per_block=5, update_frequency=3):
-        self.amm = AMM(100_000, 100_000)
+    def __init__(self, config: dict):
+        self.amm = AMM(
+            config["initial_reserve0"],
+            config["initial_reserve1"]
+        )
         self.hooks = HookManager()
         self.hooks.register(DynamicFeeHook(self.amm))
-        self.external_price = 1.0
 
-        self.num_blocks = num_blocks
-        self.txs_per_block = txs_per_block
-        self.update_frequency = update_frequency
+        self.external_price = config.get("initial_external_price", 1.0)
+        self.num_blocks = config.get("num_blocks", 50)
+        self.txs_per_block = config.get("txs_per_block", 5)
+        self.update_frequency = config.get("update_frequency", 3)
 
     def update_external_price(self):
         self.external_price *= 1 + (random.random() - 0.5) * 0.02

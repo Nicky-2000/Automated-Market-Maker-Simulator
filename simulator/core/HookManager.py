@@ -1,5 +1,5 @@
 from typing import List
-from Hook import Hook, SwapContext
+from .Hook import Hook, SwapContext
 
 class HookManager:
     def __init__(self):

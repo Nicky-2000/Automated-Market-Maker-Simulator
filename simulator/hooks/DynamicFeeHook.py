@@ -1,5 +1,5 @@
-from Hook import Hook, SwapContext
-from AMM import AMM
+from simulator.core.Hook import Hook, SwapContext
+from simulator.core.AMM import AMM
 
 class DynamicFeeHook(Hook):
     def __init__(self, amm: AMM):

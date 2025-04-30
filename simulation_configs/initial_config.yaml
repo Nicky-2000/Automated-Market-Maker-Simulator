@@ -1,0 +1,11 @@
+# === Initial Pool Setup ===
+initial_reserve0: 100000         # Initial amount of token0 in the AMM
+initial_reserve1: 100000         # Initial amount of token1 in the AMM
+
+# === Oracle / External Price ===
+initial_external_price: 1.0      # Starting external (oracle) price (token1 per token0)
+
+# === Simulation Controls ===
+num_blocks: 50                   # Number of blocks to simulate
+txs_per_block: 5                 # Number of transactions to simulate per block
+update_frequency: 3              # How often (in blocks) the external price updates
